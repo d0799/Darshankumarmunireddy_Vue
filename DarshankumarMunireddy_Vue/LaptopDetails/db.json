@@ -1,0 +1,47 @@
+{"Laptops": [{
+    "Brand": "Apple",
+    "Price": 1999,
+    "Storage": "1 TB",
+    "Display": "14 inch",
+    "Processor": "M2 chip",
+    "Color": "Sliver",
+    "Battery_life": "15 hrs"
+  
+  },
+  {
+    "Brand": "Dell",
+    "Price": 899,
+    "Storage": "512 GB",
+    "Display": "14 inch",
+    "Processor": "i7",
+    "Color": "Black",
+    "Battery_life":"8 hrs"
+  },
+  {
+    "Brand": "HP",
+    "Price": 1299,
+    "Storage": "512 GB",
+    "Display": "15 inch",
+    "Processor": "i5",
+    "Color": "Blue",
+    "Battery_life": "10 hrs"
+  },
+  {
+    "Brand": "Alien",
+    "Price": 1999,
+    "Storage": "2TB",
+    "Display": "16 inch",
+    "Processor": "i9",
+    "Color": "White",
+    "Battery_life": "12 hrs"
+  },
+  {
+    "Brand": "ASUS",
+    "Price": 1499,
+    "Storage": "1 TB",
+    "Display": "14 inch",
+    "Processor": "i7",
+    "Color": "Red",
+    "Battery_life": "10 hrs"
+  }]}
+  
